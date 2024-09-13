@@ -1,9 +1,6 @@
 # AI-Scheduling-Agent
 A Conversational AI Agent to schedule appointments for patients.
 
-### Features
-Agent 
-
 ### Libraries used
 Langchain, Streamlit, Openai, Pandas, Faker, LangSmith
 
