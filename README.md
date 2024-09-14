@@ -1,4 +1,4 @@
-# Appointment Scheduling-Agent
+# Appointment Scheduling Agent
 A Conversational AI Agent to schedule appointments for patients.
 
 ### Libraries used
