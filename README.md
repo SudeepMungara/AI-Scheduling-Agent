@@ -1,6 +1,5 @@
 # Appointment Scheduling Agent
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 A **Conversational AI Agent** designed to streamline appointment scheduling for patients, providing functionalities to schedule, reschedule, and cancel appointments seamlessly.
 
 ## Table of Contents
